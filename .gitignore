@@ -1,0 +1,7 @@
+archive/
+__pycache__
+__pycache__/
+*.pyc
+*.log
+vendor/
+outputs/videos/  # Files are too large.
